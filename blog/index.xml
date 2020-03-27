@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog Posts on Blake Haugen</title>
-    <link>https://bhaugen.com/blog/</link>
+    <link>http://bhaugen.com/blog/</link>
     <description>Recent content in Blog Posts on Blake Haugen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://bhaugen.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bhaugen.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Geohash Size Variation by Latitude</title>
-      <link>https://bhaugen.com/blog/geohash-sizes/</link>
+      <link>http://bhaugen.com/blog/geohash-sizes/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bhaugen.com/blog/geohash-sizes/</guid>
+      <guid>http://bhaugen.com/blog/geohash-sizes/</guid>
       <description>I am a huge fan of geohashes. I think they are a very elegant and quick solution for many problems.</description>
     </item>
     
     <item>
       <title>Starting a Blog</title>
-      <link>https://bhaugen.com/blog/first-post/</link>
+      <link>http://bhaugen.com/blog/first-post/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bhaugen.com/blog/first-post/</guid>
+      <guid>http://bhaugen.com/blog/first-post/</guid>
       <description>I have been meaning to set up a blog and redesign my website for quite some time and I have finally gotten around to doing it.</description>
     </item>
     

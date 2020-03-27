@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blake Haugen</title>
-    <link>https://bhaugen.com/tags/</link>
+    <link>http://bhaugen.com/tags/</link>
     <description>Recent content in Tags on Blake Haugen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://bhaugen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bhaugen.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>geohash</title>
-      <link>https://bhaugen.com/tags/geohash/</link>
+      <link>http://bhaugen.com/tags/geohash/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bhaugen.com/tags/geohash/</guid>
+      <guid>http://bhaugen.com/tags/geohash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>geospatial</title>
-      <link>https://bhaugen.com/tags/geospatial/</link>
+      <link>http://bhaugen.com/tags/geospatial/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bhaugen.com/tags/geospatial/</guid>
+      <guid>http://bhaugen.com/tags/geospatial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cheatsheet</title>
-      <link>https://bhaugen.com/tags/cheatsheet/</link>
+      <link>http://bhaugen.com/tags/cheatsheet/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bhaugen.com/tags/cheatsheet/</guid>
+      <guid>http://bhaugen.com/tags/cheatsheet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jupyter</title>
-      <link>https://bhaugen.com/tags/jupyter/</link>
+      <link>http://bhaugen.com/tags/jupyter/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bhaugen.com/tags/jupyter/</guid>
+      <guid>http://bhaugen.com/tags/jupyter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://bhaugen.com/tags/blog/</link>
+      <link>http://bhaugen.com/tags/blog/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bhaugen.com/tags/blog/</guid>
+      <guid>http://bhaugen.com/tags/blog/</guid>
       <description></description>
     </item>
     

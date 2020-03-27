@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cheat Sheets on Blake Haugen</title>
-    <link>https://bhaugen.com/cheatsheets/</link>
+    <link>http://bhaugen.com/cheatsheets/</link>
     <description>Recent content in Cheat Sheets on Blake Haugen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://bhaugen.com/cheatsheets/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bhaugen.com/cheatsheets/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jupyter Cheat Sheet</title>
-      <link>https://bhaugen.com/cheatsheets/jupyter/</link>
+      <link>http://bhaugen.com/cheatsheets/jupyter/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bhaugen.com/cheatsheets/jupyter/</guid>
+      <guid>http://bhaugen.com/cheatsheets/jupyter/</guid>
       <description>Install Jupyter Kernel I always have a number of conda environments and love to use jupyter.</description>
     </item>
     
