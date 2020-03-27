@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blake Haugen</title>
+    <link>http://bhaugen.com/</link>
+    <description>Recent content on Blake Haugen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Feb 2020 22:26:09 -0600</lastBuildDate>
+    
+	<atom:link href="http://bhaugen.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Geohash Size Variation by Latitude</title>
+      <link>http://bhaugen.com/blog/geohash-sizes/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://bhaugen.com/blog/geohash-sizes/</guid>
+      <description>I am a huge fan of geohashes. I think they are a very elegant and quick solution for many problems.</description>
+    </item>
+    
+    <item>
+      <title>Blake Haugen</title>
+      <link>http://bhaugen.com/about/</link>
+      <pubDate>Sat, 29 Feb 2020 22:26:09 -0600</pubDate>
+      
+      <guid>http://bhaugen.com/about/</guid>
+      <description>I like computers, music, data, and other related pursuits
+I am currently a Senior Big Data Engineer at Allstate in Chicago.</description>
+    </item>
+    
+    <item>
+      <title>Jupyter Cheat Sheet</title>
+      <link>http://bhaugen.com/cheatsheets/jupyter/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://bhaugen.com/cheatsheets/jupyter/</guid>
+      <description>Install Jupyter Kernel I always have a number of conda environments and love to use jupyter.</description>
+    </item>
+    
+    <item>
+      <title>Starting a Blog</title>
+      <link>http://bhaugen.com/blog/first-post/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://bhaugen.com/blog/first-post/</guid>
+      <description>I have been meaning to set up a blog and redesign my website for quite some time and I have finally gotten around to doing it.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://bhaugen.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://bhaugen.com/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
