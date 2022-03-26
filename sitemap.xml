@@ -1,75 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://bhaugen.com/tags/geohash/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bhaugen.com/blog/geohash-sizes/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bhaugen.com/tags/geospatial/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bhaugen.com/tags/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://bhaugen.com/</loc>
-    <lastmod>2020-02-29T22:26:09-06:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bhaugen.com/tags/geohash/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bhaugen.com/blog/geohash-sizes/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bhaugen.com/tags/geospatial/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bhaugen.com/tags/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bhaugen.com/about/</loc>
     <lastmod>2020-02-29T22:26:09-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bhaugen.com/blog/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bhaugen.com/cheatsheets/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bhaugen.com/tags/cheatsheet/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bhaugen.com/tags/jupyter/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bhaugen.com/cheatsheets/jupyter/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bhaugen.com/tags/blog/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bhaugen.com/blog/first-post/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bhaugen.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
-  
 </urlset>
